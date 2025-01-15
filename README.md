@@ -306,11 +306,11 @@ MIT License
 ## Citation
 
 ```bibtex
-@misc{nifty-trading-system,
+@misc{NIFTY-Trading-System-with-LSTM-Prediction,
   author = Amogh Agrawal,
   title = {NIFTY Trading System with LSTM Prediction},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/AmoghAgrawal1249/nifty-trading-system}
+  url = {https://github.com/AmoghAgrawal1249/NIFTY-Trading-System-with-LSTM-Prediction}
 }
 ```
