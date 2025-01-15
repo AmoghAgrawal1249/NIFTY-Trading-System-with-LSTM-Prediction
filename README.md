@@ -307,10 +307,10 @@ MIT License
 
 ```bibtex
 @misc{nifty-trading-system,
-  author = {Your Name},
+  author = Amogh Agrawal,
   title = {NIFTY Trading System with LSTM Prediction},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/nifty-trading-system}
+  url = {https://github.com/AmoghAgrawal1249/nifty-trading-system}
 }
 ```
